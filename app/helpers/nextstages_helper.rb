@@ -1,0 +1,2 @@
+module NextstagesHelper
+end
